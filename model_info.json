@@ -1,0 +1,1 @@
+{"model_name": "Gradient Boosting", "features": ["duration_numeric", "release_year", "description_length", "genre_encoded", "country_encoded", "rating_encoded"], "target_mapping": {"0": "Movie", "1": "TV Show"}}
